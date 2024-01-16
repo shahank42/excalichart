@@ -30,4 +30,4 @@ cd excalichart
 npm install
 
 # Start the local development server
-npm start
+npm run dev
